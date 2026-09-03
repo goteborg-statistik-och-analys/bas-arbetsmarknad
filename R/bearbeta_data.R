@@ -1,0 +1,34 @@
+# Förbereder SCB-data för webbappen och skriver JSON.
+
+required_packages <- c("tidyverse", "jsonlite", "fs")
+missing_packages <- required_packages[!vapply(required_packages, requireNamespace, logical(1), quietly = TRUE)]
+if (length(missing_packages) > 0) {
+  stop("Installera först följande R-paket: ", paste(missing_packages, collapse = ", "))
+}
+
+library(tidyverse)
+library(jsonlite)
+library(fs)
+
+input_path <- "data/raw/arbetsmarknad_status.csv"
+output_path <- "data/processed/arbetsmarknad.json"
+web_output_path <- "web/data/arbetsmarknad.json"
+
+if (!file_exists(input_path)) {
+  stop("Hittar inte ", input_path, ". Kör R/hamta_scb_data.R först.")
+}
+
+raw <- read_csv(input_path, show_col_types = FALSE)
+
+# Bevara SCB:s publicerade värden och dimensioner utan summering eller omräkning.
+processed <- raw |>
+  rename_with(~ str_to_lower(.x))
+
+dir_create(path_dir(output_path))
+write_json(processed, output_path, pretty = TRUE, auto_unbox = TRUE, na = "null")
+dir_create(path_dir(web_output_path))
+write_json(processed, web_output_path, pretty = TRUE, auto_unbox = TRUE, na = "null")
+
+cat("Skrev:", output_path, "\n")
+cat("Skrev:", web_output_path, "\n")
+cat("Antal rader:", nrow(processed), "\n")

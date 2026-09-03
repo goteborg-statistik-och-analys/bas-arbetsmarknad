@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BAS – arbetsmarknadsstatus</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main>
+      <header class="page-header">
+        <p class="eyebrow">BAS · Senast uppdaterad: 20260903 · Nästa uppdatering:</p>
+        <h1>Månadsstatistik över arbetsmarknaden</h1>
+        <p class="intro">Utveckling för personer i åldersgruppen 20–64 år. I rapporten kan du dela upp diagrammen på geografi, kön och födelseregion. Du kan även välja att visa sysselsättning eller arbetslöshet.</p>
+      </header>
+
+      <section class="controls" aria-label="Diagraminställningar">
+        <div class="control geography-control">
+          <span class="control-label">Geografier</span>
+          <details id="geography-picker">
+            <summary>Välj geografier</summary>
+            <div id="region-options" class="region-options"></div>
+          </details>
+        <select id="region-select" hidden>
+          <option value="Göteborg" selected>Göteborg</option>
+          <option value="Riket">Riket</option>
+          <option value="Stockholm">Stockholm</option>
+          <option value="Malmö">Malmö</option>
+          <option value="Stockholms län">Stockholms län</option>
+          <option value="Västra Götalands län">Västra Götalands län</option>
+          <option value="Skåne län">Skåne län</option>
+        </select>
+        </div>
+        <div class="control measure-control">
+          <span class="control-label">Visa mått</span>
+          <div class="tabs" role="tablist" aria-label="Mått i diagrammen">
+            <button class="tab is-active" type="button" role="tab" aria-selected="true" aria-controls="charts" data-measure="employment">Sysselsättning</button>
+            <button class="tab" type="button" role="tab" aria-selected="false" aria-controls="charts" data-measure="unemployment">Arbetslöshet</button>
+          </div>
+        </div>
+        <div class="control breakdown-control">
+          <span class="control-label">Visa diagram</span>
+          <div class="tabs" role="tablist" aria-label="Uppdelning av diagram">
+            <button class="tab is-active" type="button" role="tab" aria-selected="true" aria-controls="charts" data-breakdown="total">Totalt (Ej uppdelning)</button>
+            <button class="tab" type="button" role="tab" aria-selected="false" aria-controls="charts" data-breakdown="sex">Uppdelat på kön</button>
+            <button class="tab" type="button" role="tab" aria-selected="false" aria-controls="charts" data-breakdown="birth-region">Uppdelat på födelseregion</button>
+          </div>
+        </div>
+      </section>
+
+      <p id="loading" class="status" role="status">Laddar data …</p>
+
+      <section class="kpi-grid" aria-label="Förändringar">
+        <article class="kpi-card">
+          <h2>Förändring mot samma månad föregående år</h2>
+          <p class="kpi-period" id="year-change-period"></p>
+          <div id="year-change-kpis" class="kpi-values"></div>
+        </article>
+        <article class="kpi-card">
+          <h2>Förändring mot föregående månad</h2>
+          <p class="kpi-period" id="month-change-period"></p>
+          <div id="month-change-kpis" class="kpi-values"></div>
+        </article>
+      </section>
+
+      <section class="chart-grid" id="charts" aria-label="Arbetsmarknadsindikatorer">
+        <article class="chart-card">
+          <h2 id="employment-rate-title">Sysselsättningsgrad i Göteborg</h2>
+          <p id="employment-rate-description" class="chart-description">Andel av befolkningen 20–64 år, procent.</p>
+          <div class="axis-controls" data-chart-controls="rate">
+            <label for="rate-scale">Y-axelns skala</label>
+            <select id="rate-scale" class="scale-select">
+              <option value="auto" selected>Automatisk</option>
+              <option value="zero">Börja på 0</option>
+              <option value="custom">Ange min/max</option>
+            </select>
+            <div class="custom-scale" hidden>
+              <label for="rate-min">Min</label>
+              <input id="rate-min" type="number" step="any" inputmode="decimal" placeholder="Automatisk">
+              <label for="rate-max">Max</label>
+              <input id="rate-max" type="number" step="any" inputmode="decimal" placeholder="Automatisk">
+            </div>
+          </div>
+          <div class="chart-wrap"><canvas id="employment-rate-chart" role="img" aria-label="Sysselsättningsgrad över tid"></canvas></div>
+        </article>
+        <article class="chart-card">
+          <h2 id="employed-title">Antal sysselsatta i Göteborg</h2>
+          <p id="employed-description" class="chart-description">Antal personer 20–64 år.</p>
+          <div class="axis-controls" data-chart-controls="employed">
+            <label for="employed-scale">Y-axelns skala</label>
+            <select id="employed-scale" class="scale-select">
+              <option value="auto" selected>Automatisk</option>
+              <option value="zero">Börja på 0</option>
+              <option value="custom">Ange min/max</option>
+            </select>
+            <div class="custom-scale" hidden>
+              <label for="employed-min">Min</label>
+              <input id="employed-min" type="number" step="any" inputmode="decimal" placeholder="Automatisk">
+              <label for="employed-max">Max</label>
+              <input id="employed-max" type="number" step="any" inputmode="decimal" placeholder="Automatisk">
+            </div>
+          </div>
+          <div class="chart-wrap"><canvas id="employed-chart" role="img" aria-label="Antal sysselsatta över tid"></canvas></div>
+        </article>
+      </section>
+
+      <section class="method-note">
+        <h2>Om statistiken</h2>
+        <p>Statistiken är preliminär och kan revideras. SCB använder Cell Key Method (CKM) som röjandekontroll. Därför kan redovisade totaler avvika från summan av delgrupper. Värdena visas som SCB redovisar dem och summeras inte i denna applikation.</p>
+        <p>Källa: <a href="https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__AM__AM0210__AM0210A/ArbStatusM/">SCB, Arbetsmarknadsstatus</a>.</p>
+      </section>
+
+      <p id="error" class="error" role="alert" hidden></p>
+    </main>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

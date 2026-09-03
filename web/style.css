@@ -1,0 +1,61 @@
+:root {
+  font-family: "Open Sans", Arial, sans-serif;
+  color: #1f1f1f;
+  background: #f7f8fa;
+  --gbg-blue: #0077bc;
+  --dark-blue: #3f5564;
+  --turquoise: #008391;
+  --green: #008767;
+  --light-blue: #c0e4f2;
+  --gray: #d1d9dc;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+main { max-width: 1180px; margin: 0 auto; padding: 3rem 1.25rem 4rem; }
+.page-header { border-top: 8px solid var(--gbg-blue); padding-top: 1.5rem; max-width: 850px; }
+.eyebrow { margin: 0 0 .75rem; color: var(--dark-blue); font-size: .9rem; font-weight: 700; letter-spacing: .03em; }
+h1, h2 { font-weight: 800; line-height: 1.15; margin-top: 0; }
+h1 { font-size: clamp(2rem, 4vw, 3.5rem); margin-bottom: 1rem; }
+h2 { font-size: 1.35rem; margin-bottom: .4rem; }
+.intro { font-size: 1.15rem; margin-bottom: 2.5rem; }
+.controls { display: flex; align-items: flex-end; flex-wrap: wrap; gap: .75rem; margin-bottom: 1.25rem; }
+.control { display: flex; flex-direction: column; gap: .35rem; }
+.geography-control { min-width: 220px; }
+details { position: relative; }
+summary { border: 2px solid var(--dark-blue); background: #fff; color: var(--dark-blue); cursor: pointer; font-weight: 700; padding: .55rem .7rem; list-style: none; }
+summary::after { content: " ▾"; }
+.region-options { position: absolute; z-index: 2; display: grid; gap: .45rem; min-width: 220px; margin-top: .35rem; padding: .75rem; background: #fff; border: 1px solid var(--gray); box-shadow: 0 2px 8px #d1d9dc; }
+.region-options label { font-weight: 400; white-space: nowrap; }
+label, .control-label { font-weight: 700; }
+select { border: 2px solid var(--dark-blue); background: #fff; color: #1f1f1f; font: inherit; padding: .55rem .7rem; min-width: 220px; }
+.breakdown-control { width: 100%; }
+.tabs { display: flex; flex-wrap: wrap; gap: .5rem; }
+.tab { border: 2px solid var(--dark-blue); border-radius: 999px; background: #fff; color: var(--dark-blue); cursor: pointer; font: inherit; font-weight: 700; padding: .6rem 1rem; }
+.tab:hover, .tab:focus-visible { background: #e7f4fa; }
+.tab.is-active { background: var(--dark-blue); color: #fff; }
+.tab:focus-visible { outline: 3px solid var(--gbg-blue); outline-offset: 2px; }
+.status { color: var(--dark-blue); min-height: 1.5rem; }
+.kpi-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; margin: 1rem 0 2rem; }
+.kpi-card { background: #fff; border-top: 6px solid var(--turquoise); border-radius: 12px; padding: 1.25rem; box-shadow: 0 1px 4px #d1d9dc; }
+.kpi-card h2 { font-size: 1.15rem; }
+.kpi-period { color: #1f1f1f; font-size: .9rem; margin-top: -.1rem; }
+.kpi-values { display: grid; gap: .8rem; }
+.kpi-series { display: grid; grid-template-columns: minmax(7rem, 1fr) auto auto; gap: .75rem; align-items: baseline; border-top: 1px solid var(--gray); padding-top: .7rem; }
+.kpi-series strong { font-size: 1.05rem; }
+.kpi-series span { white-space: nowrap; }
+.chart-grid { display: grid; grid-template-columns: 1fr; gap: 1.5rem; }
+.chart-card { background: #fff; border-top: 6px solid var(--gbg-blue); border-radius: 12px; padding: 1.25rem; box-shadow: 0 1px 4px #d1d9dc; overflow: hidden; }
+.chart-description { margin-top: 0; color: #1f1f1f; }
+.axis-controls { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .65rem; margin: 1rem 0 .75rem; font-size: .9rem; }
+.axis-controls > label { font-weight: 700; }
+.axis-controls select, .axis-controls input { min-width: 0; border: 1px solid var(--dark-blue); background: #fff; color: #1f1f1f; font: inherit; padding: .35rem .45rem; }
+.axis-controls select { min-width: 150px; }
+.custom-scale { display: flex; align-items: center; gap: .4rem; }
+.custom-scale label { font-weight: 400; }
+.custom-scale input { width: 100px; }
+.chart-wrap { position: relative; height: 360px; }
+.method-note { border-left: 6px solid var(--turquoise); margin-top: 2rem; padding: 1rem 1.25rem; background: var(--light-blue); max-width: 900px; }
+.method-note p { line-height: 1.55; }
+a { color: #1f1f1f; font-weight: 700; }
+.error { background: #fbcfb9; border-left: 6px solid #d24723; padding: 1rem; }
+@media (max-width: 800px) { .chart-grid, .kpi-grid { grid-template-columns: 1fr; } .controls { align-items: flex-start; flex-direction: column; } .tabs { flex-direction: column; align-items: stretch; } .kpi-series { grid-template-columns: 1fr; gap: .2rem; } }

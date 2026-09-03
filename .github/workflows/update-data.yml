@@ -1,0 +1,37 @@
+name: Uppdatera BAS-data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 6 5 * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+
+      - name: Installera R-paket
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::pxweb
+            any::tidyverse
+            any::jsonlite
+            any::fs
+
+      - name: Hämta och bearbeta data
+        run: |
+          Rscript -e 'source("R/hamta_scb_data.R")'
+          Rscript -e 'source("R/bearbeta_data.R")'
+
+      - name: Publicera uppdaterad data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Uppdatera SCB-data"
+          file_pattern: data/processed/* web/data/*
