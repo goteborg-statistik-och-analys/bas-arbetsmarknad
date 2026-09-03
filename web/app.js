@@ -47,6 +47,11 @@ const tabs = [...document.querySelectorAll("[data-breakdown]")];
 const loading = document.querySelector("#loading");
 const error = document.querySelector("#error");
 
+function setUpdateDates(metadata) {
+  document.querySelector("#last-updated").textContent = metadata.last_updated || "—";
+  document.querySelector("#next-update").textContent = metadata.next_update || "—";
+}
+
 function showError(message) {
   loading.hidden = true;
   error.hidden = false;
@@ -234,6 +239,9 @@ document.querySelectorAll(".scale-select").forEach(select => select.addEventList
   const scaleKey = controls.dataset.chartControls;
   axisScales[scaleKey] = event.target.value;
   controls.querySelector(".custom-scale").hidden = event.target.value !== "custom";
+  controls.querySelectorAll(".custom-scale input").forEach(input => {
+    input.disabled = event.target.value !== "custom";
+  });
   render(selectedRegions);
 }));
 
@@ -261,10 +269,13 @@ tabs.forEach(tab => tab.addEventListener("click", () => {
   render(selectedRegions);
 }));
 
-fetch(DATA_URL)
-  .then(response => { if (!response.ok) throw new Error(`HTTP ${response.status}`); return response.json(); })
-  .then(json => {
+Promise.all([fetch(DATA_URL), fetch("data/metadata.json")])
+  .then(async ([dataResponse, metadataResponse]) => {
+    if (!dataResponse.ok) throw new Error(`HTTP ${dataResponse.status}`);
+    if (!metadataResponse.ok) throw new Error(`Metadata HTTP ${metadataResponse.status}`);
+    const [json, metadata] = await Promise.all([dataResponse.json(), metadataResponse.json()]);
     data = json;
+    setUpdateDates(metadata);
     if (data.length === 0) throw new Error("Datafilen innehåller inga observationer.");
     render(selectedRegions);
   })
