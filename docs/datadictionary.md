@@ -29,3 +29,15 @@ Måtten hämtas direkt från SCB och ska inte räknas om i applikationen:
 ## Metodnotis
 
 Statistiken är preliminär och kan revideras. SCB använder CKM (Cell Key Method) som röjandekontroll. Det innebär att en liten, kontrollerad slumpmässig osäkerhet tillförs statistikvärdena. Redovisade totaler kan därför avvika från summan av redovisade delgrupper.
+
+## Branschdata
+
+Filen `branscher.json` innehåller månadsvis antal sysselsatta 15–74 år efter arbetsställets belägenhet. Uttaget avser totalt kön och totalt födelseregion.
+
+| Fält | Beskrivning |
+|---|---|
+| `region` | Riket, län eller kommun |
+| `branschkod` | Kod för näringsgren enligt SNI 2007 |
+| `bransch` | Näringsgren enligt SNI 2007, inklusive total och uppgift saknas |
+| `månad` | Referensmånad, format `YYYYMmm` |
+| `antal` | Antal sysselsatta enligt SCB:s publicerade värde |

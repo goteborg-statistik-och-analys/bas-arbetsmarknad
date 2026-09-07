@@ -16,6 +16,10 @@ table_url <- paste0(
   "https://api.scb.se/OV0104/v1/doris/sv/ssd/START/AM/AM0210/",
   "AM0210A/ArbStatusM"
 )
+branch_table_url <- paste0(
+  "https://api.scb.se/OV0104/v1/doris/sv/ssd/START/AM/AM0210/",
+  "AM0210B/ArbStDoNMNN"
+)
 
 # Visningsnamn som löses mot SCB:s koder via metadata längre ned.
 region_labels <- c("Riket", "Stockholms län", "Uppsala län", "Södermanlands län",
@@ -109,3 +113,64 @@ cat("Antal rader:", nrow(raw_df), "\n")
 cat("Månader: ", paste(range(months), collapse = " – "), "\n")
 cat("Geografier:", length(region_codes), "\n")
 cat("Kön:", paste(sex_variable$valueTexts, collapse = ", "), "\n")
+
+# --- Hämta sysselsatta per bransch ---
+# Arbetsställets belägenhet används för att beskriva hur branscherna utvecklas
+# i respektive region. Totalt kön och födelseregion håller uttaget fokuserat.
+branch_metadata <- pxweb_get(branch_table_url)
+branch_region_codes <- get_codes(branch_metadata, "Region", region_labels)
+branch_sex_code <- get_codes(branch_metadata, "Kon", "totalt")
+branch_birth_region_code <- get_codes(branch_metadata, "Fodelseregion", "totalt")
+branch_content_code <- get_codes(
+  branch_metadata,
+  "ContentsCode",
+  "sysselsatta efter arbetsställets belägenhet"
+)
+branch_variable <- branch_metadata$variables[[which(vapply(
+  branch_metadata$variables,
+  function(x) x$code,
+  character(1)
+) == "SNI2007")]]
+branch_codes <- branch_variable$values
+branch_time_variable <- branch_metadata$variables[[which(vapply(
+  branch_metadata$variables,
+  function(x) x$code,
+  character(1)
+) == "Tid")]]
+branch_months <- branch_time_variable$values[branch_time_variable$values >= "2020M01"]
+
+if (length(branch_months) == 0) {
+  stop("SCB-metadata för branschtabellen innehåller inga månader från och med 2020M01.")
+}
+
+branch_px_data <- pxweb_get(
+  url = branch_table_url,
+  query = list(
+    Region = branch_region_codes,
+    Kon = branch_sex_code,
+    SNI2007 = branch_codes,
+    Fodelseregion = branch_birth_region_code,
+    ContentsCode = branch_content_code,
+    Tid = branch_months
+  )
+)
+
+raw_branch_df <- as.data.frame(
+  branch_px_data,
+  column.name.type = "text",
+  variable.value.type = "text"
+) |>
+  as_tibble() |>
+  mutate(
+    Branschkod = unname(setNames(
+      branch_variable$values,
+      branch_variable$valueTexts
+    )[.data[["näringsgren SNI 2007"]]])
+  )
+
+write_csv(raw_branch_df, "data/raw/sysselsatta_bransch.csv")
+writeLines(capture.output(branch_metadata), "data/raw/scb_bransch_metadata.txt")
+
+cat("Branschrader:", nrow(raw_branch_df), "\n")
+cat("Branschmånader:", paste(range(branch_months), collapse = " – "), "\n")
+cat("Branscher:", length(branch_codes), "\n")

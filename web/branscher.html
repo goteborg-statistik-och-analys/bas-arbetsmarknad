@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BAS – branschutveckling</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main>
+      <header class="page-header">
+        <p class="eyebrow">BAS · Senast uppdaterad: <time id="last-updated">—</time> · Nästa uppdatering: <time id="next-update">—</time></p>
+        <h1>Så utvecklas sysselsättningen i olika branscher</h1>
+        <p class="intro">Månadsvis antal sysselsatta 15–74 år efter arbetsställets belägenhet och näringsgren enligt SNI 2007.</p>
+      </header>
+
+      <nav class="page-nav" aria-label="Rapportens sidor">
+        <a href="index.html">Arbetsmarknadsstatus</a>
+        <a class="is-current" href="branscher.html" aria-current="page">Branscher</a>
+      </nav>
+
+      <details id="filter-drawer" class="filter-drawer">
+        <summary><span class="filter-label">Filter</span><span class="filter-close">Stäng</span></summary>
+        <section class="controls" aria-label="Diagraminställningar">
+          <div class="control geography-control">
+            <label for="branch-region">Geografi</label>
+            <select id="branch-region"></select>
+          </div>
+          <div class="control branch-control">
+            <span class="control-label">Branscher</span>
+            <p class="selection-note" id="selection-note">Välj upp till sju branscher.</p>
+            <div id="branch-options" class="branch-options"></div>
+          </div>
+        </section>
+      </details>
+
+      <p id="loading" class="status" role="status">Laddar data …</p>
+
+      <section class="chart-grid" aria-label="Branschutveckling">
+        <article class="chart-card">
+          <h2 id="branch-chart-title">Antal sysselsatta per bransch</h2>
+          <p class="chart-description">Klicka på en månad i diagrammet för att uppdatera tabellen.</p>
+          <div class="chart-wrap"><canvas id="branch-chart" role="img" aria-label="Utveckling av antal sysselsatta i valda branscher över tid"></canvas></div>
+        </article>
+
+        <article class="chart-card">
+          <h2 id="branch-bar-title">De största branscherna</h2>
+          <p id="branch-bar-description" class="chart-description">De sju största branscherna den senaste månaden.</p>
+          <div class="chart-wrap branch-bar-wrap"><canvas id="branch-bar-chart" role="img" aria-label="De sju största branscherna efter antal sysselsatta senaste månaden"></canvas></div>
+        </article>
+
+        <article class="chart-card">
+          <h2 id="summary-title">Senaste läget</h2>
+          <div class="summary-table-wrap">
+            <table class="summary-table">
+              <thead>
+                <tr><th scope="col">Bransch</th><th scope="col">Sysselsatta</th><th scope="col">Sedan föregående månad</th><th scope="col">Sedan samma månad föregående år</th></tr>
+              </thead>
+              <tbody id="summary-body"></tbody>
+            </table>
+          </div>
+        </article>
+      </section>
+
+      <section class="method-note">
+        <h2>Om statistiken</h2>
+        <p>Statistiken är preliminär och kan revideras. SCB använder Cell Key Method (CKM), vilket innebär att redovisade totaler kan avvika från summan av delgrupper. Branscherna visas därför med SCB:s publicerade värden och summeras inte här.</p>
+        <p>Källa: <a href="https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__AM__AM0210__AM0210B/ArbStDoNMNN/">SCB, Sysselsatta efter näringsgren</a>.</p>
+      </section>
+
+      <p id="error" class="error" role="alert" hidden></p>
+    </main>
+    <script src="branscher.js" type="module"></script>
+  </body>
+</html>

@@ -2,6 +2,8 @@
 
 Webbapplikation för att följa Befolkningens arbetsmarknadsstatus (BAS) med data från SCB:s statistikdatabas.
 
+Rapporten har två sidor: arbetsmarknadsstatus samt utvecklingen av antal sysselsatta per bransch (SNI 2007), redovisat efter arbetsställets belägenhet.
+
 ## Avgränsning, version 1
 
 - Geografi: Riket, samtliga län samt kommunerna Stockholm, Göteborg och Malmö
@@ -10,8 +12,11 @@ Webbapplikation för att följa Befolkningens arbetsmarknadsstatus (BAS) med dat
 - Födelseregion: Totalt, inrikes födda och utrikes födda
 - Tid: 2020M01–senaste tillgängliga månad
 - Mått: SCB:s redovisade antal och procent
+- Branschsida: sysselsatta 15–74 år, totalt kön och födelseregion, efter arbetsställets belägenhet
 
 Källa: [SCB, Arbetsmarknadsstatus efter region, kön, ålder och födelseregion](https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__AM__AM0210__AM0210A/ArbStatusM/).
+
+Branschkälla: [SCB, Sysselsatta 15–74 år efter region, kön, näringsgren och födelseregion](https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__AM__AM0210__AM0210B/ArbStDoNMNN/).
 
 Statistiken är preliminär. Tabellen använder Cell Key Method (CKM) som röjandekontroll. Värden får därför inte summeras eller räknas om till egna totaler utan ska presenteras som SCB redovisar dem.
 
