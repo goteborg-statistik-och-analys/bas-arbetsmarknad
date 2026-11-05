@@ -554,6 +554,13 @@
   },
   {
     "region": "Riket",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 5434388
+  },
+  {
+    "region": "Riket",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -1104,6 +1111,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 98848
+  },
+  {
+    "region": "Riket",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 100370
   },
   {
     "region": "Riket",
@@ -1660,6 +1674,13 @@
   },
   {
     "region": "Riket",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 574602
+  },
+  {
+    "region": "Riket",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -2210,6 +2231,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 65688
+  },
+  {
+    "region": "Riket",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 65725
   },
   {
     "region": "Riket",
@@ -2766,6 +2794,13 @@
   },
   {
     "region": "Riket",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 376037
+  },
+  {
+    "region": "Riket",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -3316,6 +3351,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 640264
+  },
+  {
+    "region": "Riket",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 645103
   },
   {
     "region": "Riket",
@@ -3872,6 +3914,13 @@
   },
   {
     "region": "Riket",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 236049
+  },
+  {
+    "region": "Riket",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -4422,6 +4471,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 233181
+  },
+  {
+    "region": "Riket",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 236834
   },
   {
     "region": "Riket",
@@ -4978,6 +5034,13 @@
   },
   {
     "region": "Riket",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 242360
+  },
+  {
+    "region": "Riket",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -5528,6 +5591,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 113692
+  },
+  {
+    "region": "Riket",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 113541
   },
   {
     "region": "Riket",
@@ -6084,6 +6154,13 @@
   },
   {
     "region": "Riket",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 93049
+  },
+  {
+    "region": "Riket",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -6634,6 +6711,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 691614
+  },
+  {
+    "region": "Riket",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 685193
   },
   {
     "region": "Riket",
@@ -7190,6 +7274,13 @@
   },
   {
     "region": "Riket",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 379021
+  },
+  {
+    "region": "Riket",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -7740,6 +7831,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 540266
+  },
+  {
+    "region": "Riket",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 519216
   },
   {
     "region": "Riket",
@@ -8296,6 +8394,13 @@
   },
   {
     "region": "Riket",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 915586
+  },
+  {
+    "region": "Riket",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -8849,6 +8954,13 @@
   },
   {
     "region": "Riket",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 246227
+  },
+  {
+    "region": "Riket",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -9399,6 +9511,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 5971
+  },
+  {
+    "region": "Riket",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 5468
   },
   {
     "region": "Stockholms län",
@@ -9955,6 +10074,13 @@
   },
   {
     "region": "Stockholms län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 1395673
+  },
+  {
+    "region": "Stockholms län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -10505,6 +10631,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 5132
+  },
+  {
+    "region": "Stockholms län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 5213
   },
   {
     "region": "Stockholms län",
@@ -11061,6 +11194,13 @@
   },
   {
     "region": "Stockholms län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 68404
+  },
+  {
+    "region": "Stockholms län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -11611,6 +11751,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 14356
+  },
+  {
+    "region": "Stockholms län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 14377
   },
   {
     "region": "Stockholms län",
@@ -12167,6 +12314,13 @@
   },
   {
     "region": "Stockholms län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 87662
+  },
+  {
+    "region": "Stockholms län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -12717,6 +12871,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 170983
+  },
+  {
+    "region": "Stockholms län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 172096
   },
   {
     "region": "Stockholms län",
@@ -13273,6 +13434,13 @@
   },
   {
     "region": "Stockholms län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 64328
+  },
+  {
+    "region": "Stockholms län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -13823,6 +13991,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 68723
+  },
+  {
+    "region": "Stockholms län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 67506
   },
   {
     "region": "Stockholms län",
@@ -14379,6 +14554,13 @@
   },
   {
     "region": "Stockholms län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 121429
+  },
+  {
+    "region": "Stockholms län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -14929,6 +15111,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 68951
+  },
+  {
+    "region": "Stockholms län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 68952
   },
   {
     "region": "Stockholms län",
@@ -15485,6 +15674,13 @@
   },
   {
     "region": "Stockholms län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 23862
+  },
+  {
+    "region": "Stockholms län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -16035,6 +16231,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 235208
+  },
+  {
+    "region": "Stockholms län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 232518
   },
   {
     "region": "Stockholms län",
@@ -16591,6 +16794,13 @@
   },
   {
     "region": "Stockholms län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 96272
+  },
+  {
+    "region": "Stockholms län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -17141,6 +17351,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 131580
+  },
+  {
+    "region": "Stockholms län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 125783
   },
   {
     "region": "Stockholms län",
@@ -17697,6 +17914,13 @@
   },
   {
     "region": "Stockholms län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 171637
+  },
+  {
+    "region": "Stockholms län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -18250,6 +18474,13 @@
   },
   {
     "region": "Stockholms län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 74334
+  },
+  {
+    "region": "Stockholms län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -18800,6 +19031,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 1401
+  },
+  {
+    "region": "Stockholms län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 1311
   },
   {
     "region": "Stockholm",
@@ -19356,6 +19594,13 @@
   },
   {
     "region": "Stockholm",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 756510
+  },
+  {
+    "region": "Stockholm",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -19906,6 +20151,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 1291
+  },
+  {
+    "region": "Stockholm",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 1330
   },
   {
     "region": "Stockholm",
@@ -20462,6 +20714,13 @@
   },
   {
     "region": "Stockholm",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 17440
+  },
+  {
+    "region": "Stockholm",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -21012,6 +21271,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 4085
+  },
+  {
+    "region": "Stockholm",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 4092
   },
   {
     "region": "Stockholm",
@@ -21568,6 +21834,13 @@
   },
   {
     "region": "Stockholm",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 30559
+  },
+  {
+    "region": "Stockholm",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -22118,6 +22391,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 82511
+  },
+  {
+    "region": "Stockholm",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 83053
   },
   {
     "region": "Stockholm",
@@ -22674,6 +22954,13 @@
   },
   {
     "region": "Stockholm",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 26097
+  },
+  {
+    "region": "Stockholm",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -23224,6 +23511,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 43256
+  },
+  {
+    "region": "Stockholm",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 41876
   },
   {
     "region": "Stockholm",
@@ -23780,6 +24074,13 @@
   },
   {
     "region": "Stockholm",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 100009
+  },
+  {
+    "region": "Stockholm",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -24330,6 +24631,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 52141
+  },
+  {
+    "region": "Stockholm",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 52128
   },
   {
     "region": "Stockholm",
@@ -24886,6 +25194,13 @@
   },
   {
     "region": "Stockholm",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 14749
+  },
+  {
+    "region": "Stockholm",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -25436,6 +25751,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 154325
+  },
+  {
+    "region": "Stockholm",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 152274
   },
   {
     "region": "Stockholm",
@@ -25992,6 +26314,13 @@
   },
   {
     "region": "Stockholm",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 49561
+  },
+  {
+    "region": "Stockholm",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -26542,6 +26871,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 62920
+  },
+  {
+    "region": "Stockholm",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 60785
   },
   {
     "region": "Stockholm",
@@ -27098,6 +27434,13 @@
   },
   {
     "region": "Stockholm",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 72966
+  },
+  {
+    "region": "Stockholm",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -27651,6 +27994,13 @@
   },
   {
     "region": "Stockholm",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 48964
+  },
+  {
+    "region": "Stockholm",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -28201,6 +28551,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 640
+  },
+  {
+    "region": "Stockholm",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 624
   },
   {
     "region": "Uppsala län",
@@ -28757,6 +29114,13 @@
   },
   {
     "region": "Uppsala län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 182322
+  },
+  {
+    "region": "Uppsala län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -29307,6 +29671,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 3575
+  },
+  {
+    "region": "Uppsala län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 3597
   },
   {
     "region": "Uppsala län",
@@ -29863,6 +30234,13 @@
   },
   {
     "region": "Uppsala län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 12432
+  },
+  {
+    "region": "Uppsala län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -30413,6 +30791,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 2820
+  },
+  {
+    "region": "Uppsala län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 2826
   },
   {
     "region": "Uppsala län",
@@ -30969,6 +31354,13 @@
   },
   {
     "region": "Uppsala län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 14142
+  },
+  {
+    "region": "Uppsala län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -31519,6 +31911,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 19293
+  },
+  {
+    "region": "Uppsala län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 19480
   },
   {
     "region": "Uppsala län",
@@ -32075,6 +32474,13 @@
   },
   {
     "region": "Uppsala län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 5658
+  },
+  {
+    "region": "Uppsala län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -32625,6 +33031,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 6472
+  },
+  {
+    "region": "Uppsala län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 6365
   },
   {
     "region": "Uppsala län",
@@ -33181,6 +33594,13 @@
   },
   {
     "region": "Uppsala län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 5237
+  },
+  {
+    "region": "Uppsala län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -33731,6 +34151,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 1317
+  },
+  {
+    "region": "Uppsala län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 1321
   },
   {
     "region": "Uppsala län",
@@ -34287,6 +34714,13 @@
   },
   {
     "region": "Uppsala län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 3172
+  },
+  {
+    "region": "Uppsala län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -34837,6 +35271,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 23313
+  },
+  {
+    "region": "Uppsala län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 23119
   },
   {
     "region": "Uppsala län",
@@ -35393,6 +35834,13 @@
   },
   {
     "region": "Uppsala län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 17124
+  },
+  {
+    "region": "Uppsala län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -35943,6 +36391,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 24585
+  },
+  {
+    "region": "Uppsala län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 23186
   },
   {
     "region": "Uppsala län",
@@ -36499,6 +36954,13 @@
   },
   {
     "region": "Uppsala län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 35946
+  },
+  {
+    "region": "Uppsala län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -37052,6 +37514,13 @@
   },
   {
     "region": "Uppsala län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 8532
+  },
+  {
+    "region": "Uppsala län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -37602,6 +38071,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 198
+  },
+  {
+    "region": "Uppsala län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 186
   },
   {
     "region": "Södermanlands län",
@@ -38158,6 +38634,13 @@
   },
   {
     "region": "Södermanlands län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 129475
+  },
+  {
+    "region": "Södermanlands län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -38708,6 +39191,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 2624
+  },
+  {
+    "region": "Södermanlands län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 2619
   },
   {
     "region": "Södermanlands län",
@@ -39264,6 +39754,13 @@
   },
   {
     "region": "Södermanlands län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 15955
+  },
+  {
+    "region": "Södermanlands län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -39814,6 +40311,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 1707
+  },
+  {
+    "region": "Södermanlands län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 1733
   },
   {
     "region": "Södermanlands län",
@@ -40370,6 +40874,13 @@
   },
   {
     "region": "Södermanlands län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 10394
+  },
+  {
+    "region": "Södermanlands län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -40920,6 +41431,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 14598
+  },
+  {
+    "region": "Södermanlands län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 14659
   },
   {
     "region": "Södermanlands län",
@@ -41476,6 +41994,13 @@
   },
   {
     "region": "Södermanlands län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 5128
+  },
+  {
+    "region": "Södermanlands län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -42026,6 +42551,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 5092
+  },
+  {
+    "region": "Södermanlands län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 5128
   },
   {
     "region": "Södermanlands län",
@@ -42582,6 +43114,13 @@
   },
   {
     "region": "Södermanlands län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 1634
+  },
+  {
+    "region": "Södermanlands län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -43131,6 +43670,13 @@
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
+    "antal": 1001
+  },
+  {
+    "region": "Södermanlands län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
     "antal": 1001
   },
   {
@@ -43688,6 +44234,13 @@
   },
   {
     "region": "Södermanlands län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2993
+  },
+  {
+    "region": "Södermanlands län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -44238,6 +44791,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 11647
+  },
+  {
+    "region": "Södermanlands län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 11561
   },
   {
     "region": "Södermanlands län",
@@ -44794,6 +45354,13 @@
   },
   {
     "region": "Södermanlands län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 8457
+  },
+  {
+    "region": "Södermanlands län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -45344,6 +45911,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 14138
+  },
+  {
+    "region": "Södermanlands län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 13503
   },
   {
     "region": "Södermanlands län",
@@ -45900,6 +46474,13 @@
   },
   {
     "region": "Södermanlands län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 27902
+  },
+  {
+    "region": "Södermanlands län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -46453,6 +47034,13 @@
   },
   {
     "region": "Södermanlands län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 6525
+  },
+  {
+    "region": "Södermanlands län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -47003,6 +47591,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 267
+  },
+  {
+    "region": "Södermanlands län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 279
   },
   {
     "region": "Östergötlands län",
@@ -47559,6 +48154,13 @@
   },
   {
     "region": "Östergötlands län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 239660
+  },
+  {
+    "region": "Östergötlands län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -48109,6 +48711,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 5346
+  },
+  {
+    "region": "Östergötlands län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 5458
   },
   {
     "region": "Östergötlands län",
@@ -48665,6 +49274,13 @@
   },
   {
     "region": "Östergötlands län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 34875
+  },
+  {
+    "region": "Östergötlands län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -49215,6 +49831,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 3206
+  },
+  {
+    "region": "Östergötlands län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 3182
   },
   {
     "region": "Östergötlands län",
@@ -49771,6 +50394,13 @@
   },
   {
     "region": "Östergötlands län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 15205
+  },
+  {
+    "region": "Östergötlands län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -50321,6 +50951,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 24592
+  },
+  {
+    "region": "Östergötlands län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 24680
   },
   {
     "region": "Östergötlands län",
@@ -50877,6 +51514,13 @@
   },
   {
     "region": "Östergötlands län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 9536
+  },
+  {
+    "region": "Östergötlands län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -51427,6 +52071,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 8976
+  },
+  {
+    "region": "Östergötlands län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 9057
   },
   {
     "region": "Östergötlands län",
@@ -51983,6 +52634,13 @@
   },
   {
     "region": "Östergötlands län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 9269
+  },
+  {
+    "region": "Östergötlands län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -52533,6 +53191,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 2366
+  },
+  {
+    "region": "Östergötlands län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 2344
   },
   {
     "region": "Östergötlands län",
@@ -53089,6 +53754,13 @@
   },
   {
     "region": "Östergötlands län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 4151
+  },
+  {
+    "region": "Östergötlands län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -53639,6 +54311,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 30543
+  },
+  {
+    "region": "Östergötlands län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 30095
   },
   {
     "region": "Östergötlands län",
@@ -54195,6 +54874,13 @@
   },
   {
     "region": "Östergötlands län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 17215
+  },
+  {
+    "region": "Östergötlands län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -54745,6 +55431,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 22389
+  },
+  {
+    "region": "Östergötlands län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 21866
   },
   {
     "region": "Östergötlands län",
@@ -55301,6 +55994,13 @@
   },
   {
     "region": "Östergötlands län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 43037
+  },
+  {
+    "region": "Östergötlands län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -55854,6 +56554,13 @@
   },
   {
     "region": "Östergötlands län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 9552
+  },
+  {
+    "region": "Östergötlands län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -56403,6 +57110,13 @@
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2026M07",
+    "antal": 140
+  },
+  {
+    "region": "Östergötlands län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
     "antal": 140
   },
   {
@@ -56960,6 +57674,13 @@
   },
   {
     "region": "Jönköpings län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 194708
+  },
+  {
+    "region": "Jönköpings län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -57510,6 +58231,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 5209
+  },
+  {
+    "region": "Jönköpings län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 5268
   },
   {
     "region": "Jönköpings län",
@@ -58066,6 +58794,13 @@
   },
   {
     "region": "Jönköpings län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 39876
+  },
+  {
+    "region": "Jönköpings län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -58616,6 +59351,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 2226
+  },
+  {
+    "region": "Jönköpings län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 2222
   },
   {
     "region": "Jönköpings län",
@@ -59172,6 +59914,13 @@
   },
   {
     "region": "Jönköpings län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 11227
+  },
+  {
+    "region": "Jönköpings län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -59722,6 +60471,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 23042
+  },
+  {
+    "region": "Jönköpings län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 23171
   },
   {
     "region": "Jönköpings län",
@@ -60278,6 +61034,13 @@
   },
   {
     "region": "Jönköpings län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 10875
+  },
+  {
+    "region": "Jönköpings län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -60828,6 +61591,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 6432
+  },
+  {
+    "region": "Jönköpings län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 6526
   },
   {
     "region": "Jönköpings län",
@@ -61384,6 +62154,13 @@
   },
   {
     "region": "Jönköpings län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 3067
+  },
+  {
+    "region": "Jönköpings län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -61934,6 +62711,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 962
+  },
+  {
+    "region": "Jönköpings län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 953
   },
   {
     "region": "Jönköpings län",
@@ -62490,6 +63274,13 @@
   },
   {
     "region": "Jönköpings län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2768
+  },
+  {
+    "region": "Jönköpings län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -63040,6 +63831,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 17060
+  },
+  {
+    "region": "Jönköpings län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 16745
   },
   {
     "region": "Jönköpings län",
@@ -63596,6 +64394,13 @@
   },
   {
     "region": "Jönköpings län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 11217
+  },
+  {
+    "region": "Jönköpings län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -64146,6 +64951,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 18467
+  },
+  {
+    "region": "Jönköpings län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 17814
   },
   {
     "region": "Jönköpings län",
@@ -64702,6 +65514,13 @@
   },
   {
     "region": "Jönköpings län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 35956
+  },
+  {
+    "region": "Jönköpings län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -65255,6 +66074,13 @@
   },
   {
     "region": "Jönköpings län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 6804
+  },
+  {
+    "region": "Jönköpings län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -65805,6 +66631,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 258
+  },
+  {
+    "region": "Jönköpings län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 213
   },
   {
     "region": "Kronobergs län",
@@ -66361,6 +67194,13 @@
   },
   {
     "region": "Kronobergs län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 106572
+  },
+  {
+    "region": "Kronobergs län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -66911,6 +67751,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 3239
+  },
+  {
+    "region": "Kronobergs län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 3330
   },
   {
     "region": "Kronobergs län",
@@ -67467,6 +68314,13 @@
   },
   {
     "region": "Kronobergs län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 18661
+  },
+  {
+    "region": "Kronobergs län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -68016,6 +68870,13 @@
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
+    "antal": 1006
+  },
+  {
+    "region": "Kronobergs län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
     "antal": 1006
   },
   {
@@ -68573,6 +69434,13 @@
   },
   {
     "region": "Kronobergs län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 6255
+  },
+  {
+    "region": "Kronobergs län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -69123,6 +69991,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 12640
+  },
+  {
+    "region": "Kronobergs län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 12784
   },
   {
     "region": "Kronobergs län",
@@ -69679,6 +70554,13 @@
   },
   {
     "region": "Kronobergs län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 4431
+  },
+  {
+    "region": "Kronobergs län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -70229,6 +71111,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 3259
+  },
+  {
+    "region": "Kronobergs län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 3282
   },
   {
     "region": "Kronobergs län",
@@ -70785,6 +71674,13 @@
   },
   {
     "region": "Kronobergs län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 4202
+  },
+  {
+    "region": "Kronobergs län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -71335,6 +72231,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 997
+  },
+  {
+    "region": "Kronobergs län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 987
   },
   {
     "region": "Kronobergs län",
@@ -71891,6 +72794,13 @@
   },
   {
     "region": "Kronobergs län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 1469
+  },
+  {
+    "region": "Kronobergs län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -72441,6 +73351,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 10981
+  },
+  {
+    "region": "Kronobergs län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 10934
   },
   {
     "region": "Kronobergs län",
@@ -72997,6 +73914,13 @@
   },
   {
     "region": "Kronobergs län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 5570
+  },
+  {
+    "region": "Kronobergs län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -73547,6 +74471,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 10583
+  },
+  {
+    "region": "Kronobergs län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 10364
   },
   {
     "region": "Kronobergs län",
@@ -74103,6 +75034,13 @@
   },
   {
     "region": "Kronobergs län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 19476
+  },
+  {
+    "region": "Kronobergs län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -74656,6 +75594,13 @@
   },
   {
     "region": "Kronobergs län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 3693
+  },
+  {
+    "region": "Kronobergs län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -75206,6 +76151,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 156
+  },
+  {
+    "region": "Kronobergs län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 129
   },
   {
     "region": "Kalmar län",
@@ -75762,6 +76714,13 @@
   },
   {
     "region": "Kalmar län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 121463
+  },
+  {
+    "region": "Kalmar län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -76312,6 +77271,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 5123
+  },
+  {
+    "region": "Kalmar län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 5149
   },
   {
     "region": "Kalmar län",
@@ -76868,6 +77834,13 @@
   },
   {
     "region": "Kalmar län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 19288
+  },
+  {
+    "region": "Kalmar län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -77418,6 +78391,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 2204
+  },
+  {
+    "region": "Kalmar län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 2205
   },
   {
     "region": "Kalmar län",
@@ -77974,6 +78954,13 @@
   },
   {
     "region": "Kalmar län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 8037
+  },
+  {
+    "region": "Kalmar län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -78524,6 +79511,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 12323
+  },
+  {
+    "region": "Kalmar län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 12510
   },
   {
     "region": "Kalmar län",
@@ -79080,6 +80074,13 @@
   },
   {
     "region": "Kalmar län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 4160
+  },
+  {
+    "region": "Kalmar län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -79630,6 +80631,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 5925
+  },
+  {
+    "region": "Kalmar län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 6362
   },
   {
     "region": "Kalmar län",
@@ -80186,6 +81194,13 @@
   },
   {
     "region": "Kalmar län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 1682
+  },
+  {
+    "region": "Kalmar län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -80736,6 +81751,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 1018
+  },
+  {
+    "region": "Kalmar län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 1021
   },
   {
     "region": "Kalmar län",
@@ -81292,6 +82314,13 @@
   },
   {
     "region": "Kalmar län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2074
+  },
+  {
+    "region": "Kalmar län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -81842,6 +82871,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 9921
+  },
+  {
+    "region": "Kalmar län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 9796
   },
   {
     "region": "Kalmar län",
@@ -82398,6 +83434,13 @@
   },
   {
     "region": "Kalmar län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 7611
+  },
+  {
+    "region": "Kalmar län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -82948,6 +83991,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 11145
+  },
+  {
+    "region": "Kalmar län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 10847
   },
   {
     "region": "Kalmar län",
@@ -83504,6 +84554,13 @@
   },
   {
     "region": "Kalmar län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 24993
+  },
+  {
+    "region": "Kalmar län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -84057,6 +85114,13 @@
   },
   {
     "region": "Kalmar län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 5500
+  },
+  {
+    "region": "Kalmar län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -84607,6 +85671,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 277
+  },
+  {
+    "region": "Kalmar län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 233
   },
   {
     "region": "Gotlands län",
@@ -85163,6 +86234,13 @@
   },
   {
     "region": "Gotlands län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 32782
+  },
+  {
+    "region": "Gotlands län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -85713,6 +86791,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 1772
+  },
+  {
+    "region": "Gotlands län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 1769
   },
   {
     "region": "Gotlands län",
@@ -86269,6 +87354,13 @@
   },
   {
     "region": "Gotlands län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 1992
+  },
+  {
+    "region": "Gotlands län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -86819,6 +87911,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 333
+  },
+  {
+    "region": "Gotlands län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 338
   },
   {
     "region": "Gotlands län",
@@ -87375,6 +88474,13 @@
   },
   {
     "region": "Gotlands län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 2446
+  },
+  {
+    "region": "Gotlands län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -87925,6 +89031,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 3259
+  },
+  {
+    "region": "Gotlands län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 3347
   },
   {
     "region": "Gotlands län",
@@ -88481,6 +89594,13 @@
   },
   {
     "region": "Gotlands län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 1228
+  },
+  {
+    "region": "Gotlands län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -89031,6 +90151,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 2892
+  },
+  {
+    "region": "Gotlands län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 3352
   },
   {
     "region": "Gotlands län",
@@ -89587,6 +90714,13 @@
   },
   {
     "region": "Gotlands län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 338
+  },
+  {
+    "region": "Gotlands län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -90137,6 +91271,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 612
+  },
+  {
+    "region": "Gotlands län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 601
   },
   {
     "region": "Gotlands län",
@@ -90693,6 +91834,13 @@
   },
   {
     "region": "Gotlands län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 520
+  },
+  {
+    "region": "Gotlands län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -91243,6 +92391,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 2530
+  },
+  {
+    "region": "Gotlands län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 2513
   },
   {
     "region": "Gotlands län",
@@ -91799,6 +92954,13 @@
   },
   {
     "region": "Gotlands län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 3452
+  },
+  {
+    "region": "Gotlands län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -92349,6 +93511,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 2959
+  },
+  {
+    "region": "Gotlands län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 2840
   },
   {
     "region": "Gotlands län",
@@ -92905,6 +94074,13 @@
   },
   {
     "region": "Gotlands län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 6152
+  },
+  {
+    "region": "Gotlands län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -93458,6 +94634,13 @@
   },
   {
     "region": "Gotlands län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 1845
+  },
+  {
+    "region": "Gotlands län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -94008,6 +95191,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 42
+  },
+  {
+    "region": "Gotlands län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 47
   },
   {
     "region": "Blekinge län",
@@ -94564,6 +95754,13 @@
   },
   {
     "region": "Blekinge län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 77080
+  },
+  {
+    "region": "Blekinge län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -95114,6 +96311,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 1821
+  },
+  {
+    "region": "Blekinge län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 1842
   },
   {
     "region": "Blekinge län",
@@ -95670,6 +96874,13 @@
   },
   {
     "region": "Blekinge län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 13376
+  },
+  {
+    "region": "Blekinge län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -96220,6 +97431,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 931
+  },
+  {
+    "region": "Blekinge län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 942
   },
   {
     "region": "Blekinge län",
@@ -96776,6 +97994,13 @@
   },
   {
     "region": "Blekinge län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 4864
+  },
+  {
+    "region": "Blekinge län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -97326,6 +98551,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 6062
+  },
+  {
+    "region": "Blekinge län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 6095
   },
   {
     "region": "Blekinge län",
@@ -97882,6 +99114,13 @@
   },
   {
     "region": "Blekinge län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 2016
+  },
+  {
+    "region": "Blekinge län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -98432,6 +99671,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 2896
+  },
+  {
+    "region": "Blekinge län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 3004
   },
   {
     "region": "Blekinge län",
@@ -98988,6 +100234,13 @@
   },
   {
     "region": "Blekinge län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 2681
+  },
+  {
+    "region": "Blekinge län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -99538,6 +100791,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 574
+  },
+  {
+    "region": "Blekinge län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 564
   },
   {
     "region": "Blekinge län",
@@ -100094,6 +101354,13 @@
   },
   {
     "region": "Blekinge län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 1308
+  },
+  {
+    "region": "Blekinge län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -100644,6 +101911,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 6344
+  },
+  {
+    "region": "Blekinge län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 6303
   },
   {
     "region": "Blekinge län",
@@ -101200,6 +102474,13 @@
   },
   {
     "region": "Blekinge län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 7644
+  },
+  {
+    "region": "Blekinge län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -101750,6 +103031,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 7747
+  },
+  {
+    "region": "Blekinge län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 7533
   },
   {
     "region": "Blekinge län",
@@ -102306,6 +103594,13 @@
   },
   {
     "region": "Blekinge län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 15997
+  },
+  {
+    "region": "Blekinge län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -102859,6 +104154,13 @@
   },
   {
     "region": "Blekinge län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 2850
+  },
+  {
+    "region": "Blekinge län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -103409,6 +104711,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 74
+  },
+  {
+    "region": "Blekinge län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 66
   },
   {
     "region": "Skåne län",
@@ -103965,6 +105274,13 @@
   },
   {
     "region": "Skåne län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 683018
+  },
+  {
+    "region": "Skåne län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -104515,6 +105831,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 12458
+  },
+  {
+    "region": "Skåne län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 12583
   },
   {
     "region": "Skåne län",
@@ -105071,6 +106394,13 @@
   },
   {
     "region": "Skåne län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 61849
+  },
+  {
+    "region": "Skåne län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -105621,6 +106951,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 7051
+  },
+  {
+    "region": "Skåne län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 7047
   },
   {
     "region": "Skåne län",
@@ -106177,6 +107514,13 @@
   },
   {
     "region": "Skåne län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 45442
+  },
+  {
+    "region": "Skåne län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -106727,6 +108071,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 89839
+  },
+  {
+    "region": "Skåne län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 90273
   },
   {
     "region": "Skåne län",
@@ -107283,6 +108634,13 @@
   },
   {
     "region": "Skåne län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 31456
+  },
+  {
+    "region": "Skåne län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -107833,6 +109191,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 29414
+  },
+  {
+    "region": "Skåne län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 30224
   },
   {
     "region": "Skåne län",
@@ -108389,6 +109754,13 @@
   },
   {
     "region": "Skåne län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 27555
+  },
+  {
+    "region": "Skåne län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -108939,6 +110311,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 9426
+  },
+  {
+    "region": "Skåne län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 9389
   },
   {
     "region": "Skåne län",
@@ -109495,6 +110874,13 @@
   },
   {
     "region": "Skåne län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 13325
+  },
+  {
+    "region": "Skåne län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -110045,6 +111431,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 87544
+  },
+  {
+    "region": "Skåne län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 87063
   },
   {
     "region": "Skåne län",
@@ -110601,6 +111994,13 @@
   },
   {
     "region": "Skåne län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 43661
+  },
+  {
+    "region": "Skåne län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -111151,6 +112551,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 73087
+  },
+  {
+    "region": "Skåne län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 70719
   },
   {
     "region": "Skåne län",
@@ -111707,6 +113114,13 @@
   },
   {
     "region": "Skåne län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 120678
+  },
+  {
+    "region": "Skåne län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -112260,6 +113674,13 @@
   },
   {
     "region": "Skåne län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 31032
+  },
+  {
+    "region": "Skåne län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -112810,6 +114231,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 835
+  },
+  {
+    "region": "Skåne län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 727
   },
   {
     "region": "Malmö",
@@ -113366,6 +114794,13 @@
   },
   {
     "region": "Malmö",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 213948
+  },
+  {
+    "region": "Malmö",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -113916,6 +115351,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 285
+  },
+  {
+    "region": "Malmö",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 295
   },
   {
     "region": "Malmö",
@@ -114472,6 +115914,13 @@
   },
   {
     "region": "Malmö",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 12211
+  },
+  {
+    "region": "Malmö",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -115022,6 +116471,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 2461
+  },
+  {
+    "region": "Malmö",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 2451
   },
   {
     "region": "Malmö",
@@ -115578,6 +117034,13 @@
   },
   {
     "region": "Malmö",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 11265
+  },
+  {
+    "region": "Malmö",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -116128,6 +117591,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 26126
+  },
+  {
+    "region": "Malmö",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 26212
   },
   {
     "region": "Malmö",
@@ -116684,6 +118154,13 @@
   },
   {
     "region": "Malmö",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 10791
+  },
+  {
+    "region": "Malmö",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -117234,6 +118711,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 9351
+  },
+  {
+    "region": "Malmö",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 9347
   },
   {
     "region": "Malmö",
@@ -117790,6 +119274,13 @@
   },
   {
     "region": "Malmö",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 15344
+  },
+  {
+    "region": "Malmö",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -118340,6 +119831,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 5445
+  },
+  {
+    "region": "Malmö",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 5396
   },
   {
     "region": "Malmö",
@@ -118896,6 +120394,13 @@
   },
   {
     "region": "Malmö",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 4750
+  },
+  {
+    "region": "Malmö",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -119446,6 +120951,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 36939
+  },
+  {
+    "region": "Malmö",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 36742
   },
   {
     "region": "Malmö",
@@ -120002,6 +121514,13 @@
   },
   {
     "region": "Malmö",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 16721
+  },
+  {
+    "region": "Malmö",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -120552,6 +122071,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 18127
+  },
+  {
+    "region": "Malmö",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 17873
   },
   {
     "region": "Malmö",
@@ -121108,6 +122634,13 @@
   },
   {
     "region": "Malmö",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 33906
+  },
+  {
+    "region": "Malmö",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -121661,6 +123194,13 @@
   },
   {
     "region": "Malmö",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 10447
+  },
+  {
+    "region": "Malmö",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -122211,6 +123751,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 215
+  },
+  {
+    "region": "Malmö",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 190
   },
   {
     "region": "Hallands län",
@@ -122767,6 +124314,13 @@
   },
   {
     "region": "Hallands län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 157532
+  },
+  {
+    "region": "Hallands län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -123317,6 +124871,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 4251
+  },
+  {
+    "region": "Hallands län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 4285
   },
   {
     "region": "Hallands län",
@@ -123873,6 +125434,13 @@
   },
   {
     "region": "Hallands län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 16174
+  },
+  {
+    "region": "Hallands län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -124423,6 +125991,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 3346
+  },
+  {
+    "region": "Hallands län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 3357
   },
   {
     "region": "Hallands län",
@@ -124979,6 +126554,13 @@
   },
   {
     "region": "Hallands län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 12780
+  },
+  {
+    "region": "Hallands län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -125529,6 +127111,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 23964
+  },
+  {
+    "region": "Hallands län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 24233
   },
   {
     "region": "Hallands län",
@@ -126085,6 +127674,13 @@
   },
   {
     "region": "Hallands län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 5641
+  },
+  {
+    "region": "Hallands län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -126635,6 +128231,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 8593
+  },
+  {
+    "region": "Hallands län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 9104
   },
   {
     "region": "Hallands län",
@@ -127191,6 +128794,13 @@
   },
   {
     "region": "Hallands län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 2359
+  },
+  {
+    "region": "Hallands län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -127741,6 +129351,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 1789
+  },
+  {
+    "region": "Hallands län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 1792
   },
   {
     "region": "Hallands län",
@@ -128297,6 +129914,13 @@
   },
   {
     "region": "Hallands län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2616
+  },
+  {
+    "region": "Hallands län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -128847,6 +130471,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 15143
+  },
+  {
+    "region": "Hallands län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 15110
   },
   {
     "region": "Hallands län",
@@ -129403,6 +131034,13 @@
   },
   {
     "region": "Hallands län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 9345
+  },
+  {
+    "region": "Hallands län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -129953,6 +131591,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 17118
+  },
+  {
+    "region": "Hallands län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 16245
   },
   {
     "region": "Hallands län",
@@ -130509,6 +132154,13 @@
   },
   {
     "region": "Hallands län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 27821
+  },
+  {
+    "region": "Hallands län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -131062,6 +132714,13 @@
   },
   {
     "region": "Hallands län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 6513
+  },
+  {
+    "region": "Hallands län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -131612,6 +133271,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 154
+  },
+  {
+    "region": "Hallands län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 164
   },
   {
     "region": "Västra Götalands län",
@@ -132168,6 +133834,13 @@
   },
   {
     "region": "Västra Götalands län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 940133
+  },
+  {
+    "region": "Västra Götalands län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -132718,6 +134391,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 13707
+  },
+  {
+    "region": "Västra Götalands län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 13977
   },
   {
     "region": "Västra Götalands län",
@@ -133274,6 +134954,13 @@
   },
   {
     "region": "Västra Götalands län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 116251
+  },
+  {
+    "region": "Västra Götalands län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -133824,6 +135511,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 10258
+  },
+  {
+    "region": "Västra Götalands län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 10270
   },
   {
     "region": "Västra Götalands län",
@@ -134380,6 +136074,13 @@
   },
   {
     "region": "Västra Götalands län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 62904
+  },
+  {
+    "region": "Västra Götalands län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -134930,6 +136631,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 117656
+  },
+  {
+    "region": "Västra Götalands län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 118689
   },
   {
     "region": "Västra Götalands län",
@@ -135486,6 +137194,13 @@
   },
   {
     "region": "Västra Götalands län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 43513
+  },
+  {
+    "region": "Västra Götalands län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -136036,6 +137751,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 39556
+  },
+  {
+    "region": "Västra Götalands län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 40671
   },
   {
     "region": "Västra Götalands län",
@@ -136592,6 +138314,13 @@
   },
   {
     "region": "Västra Götalands län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 37354
+  },
+  {
+    "region": "Västra Götalands län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -137142,6 +138871,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 11288
+  },
+  {
+    "region": "Västra Götalands län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 11227
   },
   {
     "region": "Västra Götalands län",
@@ -137698,6 +139434,13 @@
   },
   {
     "region": "Västra Götalands län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 15309
+  },
+  {
+    "region": "Västra Götalands län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -138248,6 +139991,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 126391
+  },
+  {
+    "region": "Västra Götalands län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 125173
   },
   {
     "region": "Västra Götalands län",
@@ -138804,6 +140554,13 @@
   },
   {
     "region": "Västra Götalands län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 62808
+  },
+  {
+    "region": "Västra Götalands län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -139354,6 +141111,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 89395
+  },
+  {
+    "region": "Västra Götalands län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 85638
   },
   {
     "region": "Västra Götalands län",
@@ -139910,6 +141674,13 @@
   },
   {
     "region": "Västra Götalands län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 155651
+  },
+  {
+    "region": "Västra Götalands län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -140463,6 +142234,13 @@
   },
   {
     "region": "Västra Götalands län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 39825
+  },
+  {
+    "region": "Västra Götalands län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -141013,6 +142791,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 982
+  },
+  {
+    "region": "Västra Götalands län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 873
   },
   {
     "region": "Göteborg",
@@ -141569,6 +143354,13 @@
   },
   {
     "region": "Göteborg",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 399384
+  },
+  {
+    "region": "Göteborg",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -142119,6 +143911,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 637
+  },
+  {
+    "region": "Göteborg",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 639
   },
   {
     "region": "Göteborg",
@@ -142675,6 +144474,13 @@
   },
   {
     "region": "Göteborg",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 41916
+  },
+  {
+    "region": "Göteborg",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -143225,6 +145031,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 4334
+  },
+  {
+    "region": "Göteborg",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 4332
   },
   {
     "region": "Göteborg",
@@ -143781,6 +145594,13 @@
   },
   {
     "region": "Göteborg",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 18140
+  },
+  {
+    "region": "Göteborg",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -144331,6 +146151,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 42636
+  },
+  {
+    "region": "Göteborg",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 42959
   },
   {
     "region": "Göteborg",
@@ -144887,6 +146714,13 @@
   },
   {
     "region": "Göteborg",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 21090
+  },
+  {
+    "region": "Göteborg",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -145437,6 +147271,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 19844
+  },
+  {
+    "region": "Göteborg",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 20049
   },
   {
     "region": "Göteborg",
@@ -145993,6 +147834,13 @@
   },
   {
     "region": "Göteborg",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 26867
+  },
+  {
+    "region": "Göteborg",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -146543,6 +148391,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 6624
+  },
+  {
+    "region": "Göteborg",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 6594
   },
   {
     "region": "Göteborg",
@@ -147099,6 +148954,13 @@
   },
   {
     "region": "Göteborg",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 7617
+  },
+  {
+    "region": "Göteborg",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -147649,6 +149511,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 72711
+  },
+  {
+    "region": "Göteborg",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 72028
   },
   {
     "region": "Göteborg",
@@ -148205,6 +150074,13 @@
   },
   {
     "region": "Göteborg",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 29190
+  },
+  {
+    "region": "Göteborg",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -148755,6 +150631,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 34275
+  },
+  {
+    "region": "Göteborg",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 33038
   },
   {
     "region": "Göteborg",
@@ -149311,6 +151194,13 @@
   },
   {
     "region": "Göteborg",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 56882
+  },
+  {
+    "region": "Göteborg",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -149864,6 +151754,13 @@
   },
   {
     "region": "Göteborg",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 17821
+  },
+  {
+    "region": "Göteborg",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -150414,6 +152311,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 294
+  },
+  {
+    "region": "Göteborg",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 223
   },
   {
     "region": "Värmlands län",
@@ -150970,6 +152874,13 @@
   },
   {
     "region": "Värmlands län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 136390
+  },
+  {
+    "region": "Värmlands län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -151520,6 +153431,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 4728
+  },
+  {
+    "region": "Värmlands län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 4838
   },
   {
     "region": "Värmlands län",
@@ -152076,6 +153994,13 @@
   },
   {
     "region": "Värmlands län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 17725
+  },
+  {
+    "region": "Värmlands län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -152626,6 +154551,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 1573
+  },
+  {
+    "region": "Värmlands län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 1581
   },
   {
     "region": "Värmlands län",
@@ -153182,6 +155114,13 @@
   },
   {
     "region": "Värmlands län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 10486
+  },
+  {
+    "region": "Värmlands län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -153732,6 +155671,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 15800
+  },
+  {
+    "region": "Värmlands län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 15910
   },
   {
     "region": "Värmlands län",
@@ -154288,6 +156234,13 @@
   },
   {
     "region": "Värmlands län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 5541
+  },
+  {
+    "region": "Värmlands län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -154838,6 +156791,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 5517
+  },
+  {
+    "region": "Värmlands län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 5762
   },
   {
     "region": "Värmlands län",
@@ -155394,6 +157354,13 @@
   },
   {
     "region": "Värmlands län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 3169
+  },
+  {
+    "region": "Värmlands län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -155944,6 +157911,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 1275
+  },
+  {
+    "region": "Värmlands län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 1272
   },
   {
     "region": "Värmlands län",
@@ -156500,6 +158474,13 @@
   },
   {
     "region": "Värmlands län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2183
+  },
+  {
+    "region": "Värmlands län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -157050,6 +159031,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 12562
+  },
+  {
+    "region": "Värmlands län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 12741
   },
   {
     "region": "Värmlands län",
@@ -157606,6 +159594,13 @@
   },
   {
     "region": "Värmlands län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 8911
+  },
+  {
+    "region": "Värmlands län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -158156,6 +160151,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 13372
+  },
+  {
+    "region": "Värmlands län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 12946
   },
   {
     "region": "Värmlands län",
@@ -158712,6 +160714,13 @@
   },
   {
     "region": "Värmlands län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 27318
+  },
+  {
+    "region": "Värmlands län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -159265,6 +161274,13 @@
   },
   {
     "region": "Värmlands län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 5871
+  },
+  {
+    "region": "Värmlands län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -159815,6 +161831,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 129
+  },
+  {
+    "region": "Värmlands län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 136
   },
   {
     "region": "Örebro län",
@@ -160371,6 +162394,13 @@
   },
   {
     "region": "Örebro län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 157043
+  },
+  {
+    "region": "Örebro län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -160921,6 +162951,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 2868
+  },
+  {
+    "region": "Örebro län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 2932
   },
   {
     "region": "Örebro län",
@@ -161477,6 +163514,13 @@
   },
   {
     "region": "Örebro län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 22722
+  },
+  {
+    "region": "Örebro län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -162027,6 +164071,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 1424
+  },
+  {
+    "region": "Örebro län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 1415
   },
   {
     "region": "Örebro län",
@@ -162583,6 +164634,13 @@
   },
   {
     "region": "Örebro län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 11110
+  },
+  {
+    "region": "Örebro län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -163133,6 +165191,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 17904
+  },
+  {
+    "region": "Örebro län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 18055
   },
   {
     "region": "Örebro län",
@@ -163689,6 +165754,13 @@
   },
   {
     "region": "Örebro län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 6833
+  },
+  {
+    "region": "Örebro län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -164239,6 +166311,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 5206
+  },
+  {
+    "region": "Örebro län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 5222
   },
   {
     "region": "Örebro län",
@@ -164795,6 +166874,13 @@
   },
   {
     "region": "Örebro län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 3367
+  },
+  {
+    "region": "Örebro län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -165345,6 +167431,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 1242
+  },
+  {
+    "region": "Örebro län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 1231
   },
   {
     "region": "Örebro län",
@@ -165901,6 +167994,13 @@
   },
   {
     "region": "Örebro län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2729
+  },
+  {
+    "region": "Örebro län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -166451,6 +168551,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 14697
+  },
+  {
+    "region": "Örebro län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 14636
   },
   {
     "region": "Örebro län",
@@ -167007,6 +169114,13 @@
   },
   {
     "region": "Örebro län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 13475
+  },
+  {
+    "region": "Örebro län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -167557,6 +169671,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 15464
+  },
+  {
+    "region": "Örebro län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 14740
   },
   {
     "region": "Örebro län",
@@ -168113,6 +170234,13 @@
   },
   {
     "region": "Örebro län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 32530
+  },
+  {
+    "region": "Örebro län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -168666,6 +170794,13 @@
   },
   {
     "region": "Örebro län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 5891
+  },
+  {
+    "region": "Örebro län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -169216,6 +171351,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 142
+  },
+  {
+    "region": "Örebro län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 158
   },
   {
     "region": "Västmanlands län",
@@ -169772,6 +171914,13 @@
   },
   {
     "region": "Västmanlands län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 131565
+  },
+  {
+    "region": "Västmanlands län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -170322,6 +172471,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 2122
+  },
+  {
+    "region": "Västmanlands län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 2136
   },
   {
     "region": "Västmanlands län",
@@ -170878,6 +173034,13 @@
   },
   {
     "region": "Västmanlands län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 21726
+  },
+  {
+    "region": "Västmanlands län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -171428,6 +173591,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 1914
+  },
+  {
+    "region": "Västmanlands län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 1915
   },
   {
     "region": "Västmanlands län",
@@ -171984,6 +174154,13 @@
   },
   {
     "region": "Västmanlands län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 9288
+  },
+  {
+    "region": "Västmanlands län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -172534,6 +174711,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 14480
+  },
+  {
+    "region": "Västmanlands län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 14551
   },
   {
     "region": "Västmanlands län",
@@ -173090,6 +175274,13 @@
   },
   {
     "region": "Västmanlands län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 4990
+  },
+  {
+    "region": "Västmanlands län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -173640,6 +175831,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 4687
+  },
+  {
+    "region": "Västmanlands län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 4618
   },
   {
     "region": "Västmanlands län",
@@ -174196,6 +176394,13 @@
   },
   {
     "region": "Västmanlands län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 2545
+  },
+  {
+    "region": "Västmanlands län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -174746,6 +176951,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 1040
+  },
+  {
+    "region": "Västmanlands län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 1036
   },
   {
     "region": "Västmanlands län",
@@ -175302,6 +177514,13 @@
   },
   {
     "region": "Västmanlands län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2079
+  },
+  {
+    "region": "Västmanlands län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -175852,6 +178071,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 16191
+  },
+  {
+    "region": "Västmanlands län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 16001
   },
   {
     "region": "Västmanlands län",
@@ -176408,6 +178634,13 @@
   },
   {
     "region": "Västmanlands län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 7511
+  },
+  {
+    "region": "Västmanlands län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -176958,6 +179191,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 14410
+  },
+  {
+    "region": "Västmanlands län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 13630
   },
   {
     "region": "Västmanlands län",
@@ -177514,6 +179754,13 @@
   },
   {
     "region": "Västmanlands län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 24787
+  },
+  {
+    "region": "Västmanlands län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -178067,6 +180314,13 @@
   },
   {
     "region": "Västmanlands län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 4621
+  },
+  {
+    "region": "Västmanlands län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -178617,6 +180871,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 131
+  },
+  {
+    "region": "Västmanlands län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 137
   },
   {
     "region": "Dalarnas län",
@@ -179173,6 +181434,13 @@
   },
   {
     "region": "Dalarnas län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 143797
+  },
+  {
+    "region": "Dalarnas län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -179723,6 +181991,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 4577
+  },
+  {
+    "region": "Dalarnas län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 4638
   },
   {
     "region": "Dalarnas län",
@@ -180279,6 +182554,13 @@
   },
   {
     "region": "Dalarnas län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 21461
+  },
+  {
+    "region": "Dalarnas län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -180829,6 +183111,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 1792
+  },
+  {
+    "region": "Dalarnas län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 1809
   },
   {
     "region": "Dalarnas län",
@@ -181385,6 +183674,13 @@
   },
   {
     "region": "Dalarnas län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 12641
+  },
+  {
+    "region": "Dalarnas län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -181935,6 +184231,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 15567
+  },
+  {
+    "region": "Dalarnas län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 15679
   },
   {
     "region": "Dalarnas län",
@@ -182491,6 +184794,13 @@
   },
   {
     "region": "Dalarnas län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 5118
+  },
+  {
+    "region": "Dalarnas län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -183041,6 +185351,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 5584
+  },
+  {
+    "region": "Dalarnas län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 5828
   },
   {
     "region": "Dalarnas län",
@@ -183597,6 +185914,13 @@
   },
   {
     "region": "Dalarnas län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 2187
+  },
+  {
+    "region": "Dalarnas län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -184147,6 +186471,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 1046
+  },
+  {
+    "region": "Dalarnas län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 1044
   },
   {
     "region": "Dalarnas län",
@@ -184703,6 +187034,13 @@
   },
   {
     "region": "Dalarnas län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2339
+  },
+  {
+    "region": "Dalarnas län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -185253,6 +187591,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 12396
+  },
+  {
+    "region": "Dalarnas län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 12331
   },
   {
     "region": "Dalarnas län",
@@ -185809,6 +188154,13 @@
   },
   {
     "region": "Dalarnas län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 9399
+  },
+  {
+    "region": "Dalarnas län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -186359,6 +188711,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 13871
+  },
+  {
+    "region": "Dalarnas län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 13469
   },
   {
     "region": "Dalarnas län",
@@ -186915,6 +189274,13 @@
   },
   {
     "region": "Dalarnas län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 29049
+  },
+  {
+    "region": "Dalarnas län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -187468,6 +189834,13 @@
   },
   {
     "region": "Dalarnas län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 6688
+  },
+  {
+    "region": "Dalarnas län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -188018,6 +190391,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 103
+  },
+  {
+    "region": "Dalarnas län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 120
   },
   {
     "region": "Gävleborgs län",
@@ -188574,6 +190954,13 @@
   },
   {
     "region": "Gävleborgs län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 136597
+  },
+  {
+    "region": "Gävleborgs län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -189124,6 +191511,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 4227
+  },
+  {
+    "region": "Gävleborgs län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 4252
   },
   {
     "region": "Gävleborgs län",
@@ -189680,6 +192074,13 @@
   },
   {
     "region": "Gävleborgs län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 17933
+  },
+  {
+    "region": "Gävleborgs län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -190230,6 +192631,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 1790
+  },
+  {
+    "region": "Gävleborgs län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 1776
   },
   {
     "region": "Gävleborgs län",
@@ -190786,6 +193194,13 @@
   },
   {
     "region": "Gävleborgs län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 11575
+  },
+  {
+    "region": "Gävleborgs län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -191336,6 +193751,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 13311
+  },
+  {
+    "region": "Gävleborgs län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 13415
   },
   {
     "region": "Gävleborgs län",
@@ -191892,6 +194314,13 @@
   },
   {
     "region": "Gävleborgs län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 6257
+  },
+  {
+    "region": "Gävleborgs län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -192442,6 +194871,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 5484
+  },
+  {
+    "region": "Gävleborgs län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 5658
   },
   {
     "region": "Gävleborgs län",
@@ -192998,6 +195434,13 @@
   },
   {
     "region": "Gävleborgs län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 2937
+  },
+  {
+    "region": "Gävleborgs län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -193548,6 +195991,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 915
+  },
+  {
+    "region": "Gävleborgs län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 933
   },
   {
     "region": "Gävleborgs län",
@@ -194104,6 +196554,13 @@
   },
   {
     "region": "Gävleborgs län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2435
+  },
+  {
+    "region": "Gävleborgs län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -194654,6 +197111,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 13031
+  },
+  {
+    "region": "Gävleborgs län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 12920
   },
   {
     "region": "Gävleborgs län",
@@ -195210,6 +197674,13 @@
   },
   {
     "region": "Gävleborgs län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 10475
+  },
+  {
+    "region": "Gävleborgs län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -195760,6 +198231,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 13028
+  },
+  {
+    "region": "Gävleborgs län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 12524
   },
   {
     "region": "Gävleborgs län",
@@ -196316,6 +198794,13 @@
   },
   {
     "region": "Gävleborgs län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 27099
+  },
+  {
+    "region": "Gävleborgs län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -196869,6 +199354,13 @@
   },
   {
     "region": "Gävleborgs län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 6259
+  },
+  {
+    "region": "Gävleborgs län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -197419,6 +199911,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 164
+  },
+  {
+    "region": "Gävleborgs län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 146
   },
   {
     "region": "Västernorrlands län",
@@ -197975,6 +200474,13 @@
   },
   {
     "region": "Västernorrlands län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 123164
+  },
+  {
+    "region": "Västernorrlands län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -198525,6 +201031,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 4092
+  },
+  {
+    "region": "Västernorrlands län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 4315
   },
   {
     "region": "Västernorrlands län",
@@ -199081,6 +201594,13 @@
   },
   {
     "region": "Västernorrlands län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 14658
+  },
+  {
+    "region": "Västernorrlands län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -199631,6 +202151,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 1923
+  },
+  {
+    "region": "Västernorrlands län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 1921
   },
   {
     "region": "Västernorrlands län",
@@ -200187,6 +202714,13 @@
   },
   {
     "region": "Västernorrlands län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 9027
+  },
+  {
+    "region": "Västernorrlands län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -200737,6 +203271,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 12018
+  },
+  {
+    "region": "Västernorrlands län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 12103
   },
   {
     "region": "Västernorrlands län",
@@ -201293,6 +203834,13 @@
   },
   {
     "region": "Västernorrlands län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 5167
+  },
+  {
+    "region": "Västernorrlands län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -201843,6 +204391,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 4516
+  },
+  {
+    "region": "Västernorrlands län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 4788
   },
   {
     "region": "Västernorrlands län",
@@ -202399,6 +204954,13 @@
   },
   {
     "region": "Västernorrlands län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 3515
+  },
+  {
+    "region": "Västernorrlands län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -202949,6 +205511,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 3510
+  },
+  {
+    "region": "Västernorrlands län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 3496
   },
   {
     "region": "Västernorrlands län",
@@ -203505,6 +206074,13 @@
   },
   {
     "region": "Västernorrlands län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2224
+  },
+  {
+    "region": "Västernorrlands län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -204055,6 +206631,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 10899
+  },
+  {
+    "region": "Västernorrlands län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 10866
   },
   {
     "region": "Västernorrlands län",
@@ -204611,6 +207194,13 @@
   },
   {
     "region": "Västernorrlands län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 11063
+  },
+  {
+    "region": "Västernorrlands län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -205161,6 +207751,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 11618
+  },
+  {
+    "region": "Västernorrlands län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 11058
   },
   {
     "region": "Västernorrlands län",
@@ -205717,6 +208314,13 @@
   },
   {
     "region": "Västernorrlands län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 23233
+  },
+  {
+    "region": "Västernorrlands län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -206270,6 +208874,13 @@
   },
   {
     "region": "Västernorrlands län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 5645
+  },
+  {
+    "region": "Västernorrlands län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -206820,6 +209431,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 114
+  },
+  {
+    "region": "Västernorrlands län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 83
   },
   {
     "region": "Jämtlands län",
@@ -207376,6 +209994,13 @@
   },
   {
     "region": "Jämtlands län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 68128
+  },
+  {
+    "region": "Jämtlands län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -207926,6 +210551,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 3396
+  },
+  {
+    "region": "Jämtlands län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 3390
   },
   {
     "region": "Jämtlands län",
@@ -208482,6 +211114,13 @@
   },
   {
     "region": "Jämtlands län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 4704
+  },
+  {
+    "region": "Jämtlands län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -209032,6 +211671,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 1174
+  },
+  {
+    "region": "Jämtlands län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 1180
   },
   {
     "region": "Jämtlands län",
@@ -209588,6 +212234,13 @@
   },
   {
     "region": "Jämtlands län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 5188
+  },
+  {
+    "region": "Jämtlands län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -210138,6 +212791,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 6667
+  },
+  {
+    "region": "Jämtlands län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 6873
   },
   {
     "region": "Jämtlands län",
@@ -210694,6 +213354,13 @@
   },
   {
     "region": "Jämtlands län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 2586
+  },
+  {
+    "region": "Jämtlands län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -211244,6 +213911,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 3306
+  },
+  {
+    "region": "Jämtlands län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 3556
   },
   {
     "region": "Jämtlands län",
@@ -211800,6 +214474,13 @@
   },
   {
     "region": "Jämtlands län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 1365
+  },
+  {
+    "region": "Jämtlands län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -212349,6 +215030,13 @@
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
+    "antal": 765
+  },
+  {
+    "region": "Jämtlands län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
     "antal": 765
   },
   {
@@ -212906,6 +215594,13 @@
   },
   {
     "region": "Jämtlands län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 1026
+  },
+  {
+    "region": "Jämtlands län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -213456,6 +216151,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 7552
+  },
+  {
+    "region": "Jämtlands län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 7445
   },
   {
     "region": "Jämtlands län",
@@ -214012,6 +216714,13 @@
   },
   {
     "region": "Jämtlands län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 7014
+  },
+  {
+    "region": "Jämtlands län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -214562,6 +217271,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 6667
+  },
+  {
+    "region": "Jämtlands län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 6484
   },
   {
     "region": "Jämtlands län",
@@ -215118,6 +217834,13 @@
   },
   {
     "region": "Jämtlands län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 13204
+  },
+  {
+    "region": "Jämtlands län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -215671,6 +218394,13 @@
   },
   {
     "region": "Jämtlands län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 3291
+  },
+  {
+    "region": "Jämtlands län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -216221,6 +218951,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 105
+  },
+  {
+    "region": "Jämtlands län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 57
   },
   {
     "region": "Västerbottens län",
@@ -216777,6 +219514,13 @@
   },
   {
     "region": "Västerbottens län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 144048
+  },
+  {
+    "region": "Västerbottens län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -217327,6 +220071,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 4786
+  },
+  {
+    "region": "Västerbottens län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 4937
   },
   {
     "region": "Västerbottens län",
@@ -217883,6 +220634,13 @@
   },
   {
     "region": "Västerbottens län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 16619
+  },
+  {
+    "region": "Västerbottens län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -218433,6 +221191,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 2568
+  },
+  {
+    "region": "Västerbottens län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 2549
   },
   {
     "region": "Västerbottens län",
@@ -218989,6 +221754,13 @@
   },
   {
     "region": "Västerbottens län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 11823
+  },
+  {
+    "region": "Västerbottens län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -219539,6 +222311,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 13797
+  },
+  {
+    "region": "Västerbottens län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 13952
   },
   {
     "region": "Västerbottens län",
@@ -220095,6 +222874,13 @@
   },
   {
     "region": "Västerbottens län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 6087
+  },
+  {
+    "region": "Västerbottens län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -220648,6 +223434,13 @@
   },
   {
     "region": "Västerbottens län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 5203
+  },
+  {
+    "region": "Västerbottens län",
     "branschkod": "J",
     "bransch": "informations- och kommunikationsföretag",
     "månad": "2020M01",
@@ -221197,6 +223990,13 @@
     "branschkod": "J",
     "bransch": "informations- och kommunikationsföretag",
     "månad": "2026M07",
+    "antal": 4170
+  },
+  {
+    "region": "Västerbottens län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
     "antal": 4170
   },
   {
@@ -221754,6 +224554,13 @@
   },
   {
     "region": "Västerbottens län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 1802
+  },
+  {
+    "region": "Västerbottens län",
     "branschkod": "L",
     "bransch": "fastighetsbolag och fastighetsförvaltare",
     "månad": "2020M01",
@@ -222304,6 +225111,13 @@
     "bransch": "fastighetsbolag och fastighetsförvaltare",
     "månad": "2026M07",
     "antal": 2488
+  },
+  {
+    "region": "Västerbottens län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2416
   },
   {
     "region": "Västerbottens län",
@@ -222860,6 +225674,13 @@
   },
   {
     "region": "Västerbottens län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 13012
+  },
+  {
+    "region": "Västerbottens län",
     "branschkod": "O",
     "bransch": "civila myndigheter och försvaret",
     "månad": "2020M01",
@@ -223410,6 +226231,13 @@
     "bransch": "civila myndigheter och försvaret",
     "månad": "2026M07",
     "antal": 8958
+  },
+  {
+    "region": "Västerbottens län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 9005
   },
   {
     "region": "Västerbottens län",
@@ -223966,6 +226794,13 @@
   },
   {
     "region": "Västerbottens län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 16607
+  },
+  {
+    "region": "Västerbottens län",
     "branschkod": "Q",
     "bransch": "enheter för vård och omsorg, socialtjänst",
     "månad": "2020M01",
@@ -224516,6 +227351,13 @@
     "bransch": "enheter för vård och omsorg, socialtjänst",
     "månad": "2026M07",
     "antal": 30519
+  },
+  {
+    "region": "Västerbottens län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 29723
   },
   {
     "region": "Västerbottens län",
@@ -225072,6 +227914,13 @@
   },
   {
     "region": "Västerbottens län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 5977
+  },
+  {
+    "region": "Västerbottens län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -225622,6 +228471,13 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 166
+  },
+  {
+    "region": "Västerbottens län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 155
   },
   {
     "region": "Norrbottens län",
@@ -226178,6 +229034,13 @@
   },
   {
     "region": "Norrbottens län",
+    "branschkod": "A-U+US",
+    "bransch": "Total",
+    "månad": "2026M08",
+    "antal": 133233
+  },
+  {
+    "region": "Norrbottens län",
     "branschkod": "A",
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2020M01",
@@ -226728,6 +229591,13 @@
     "bransch": "företag inom jordbruk, skogsbruk och fiske",
     "månad": "2026M07",
     "antal": 3796
+  },
+  {
+    "region": "Norrbottens län",
+    "branschkod": "A",
+    "bransch": "företag inom jordbruk, skogsbruk och fiske",
+    "månad": "2026M08",
+    "antal": 3850
   },
   {
     "region": "Norrbottens län",
@@ -227284,6 +230154,13 @@
   },
   {
     "region": "Norrbottens län",
+    "branschkod": "B+C",
+    "bransch": "tillverkningsindustri; gruvor och mineralutvinningsindustri",
+    "månad": "2026M08",
+    "antal": 17928
+  },
+  {
+    "region": "Norrbottens län",
     "branschkod": "D+E",
     "bransch": "företag inom energi och miljö",
     "månad": "2020M01",
@@ -227834,6 +230711,13 @@
     "bransch": "företag inom energi och miljö",
     "månad": "2026M07",
     "antal": 2092
+  },
+  {
+    "region": "Norrbottens län",
+    "branschkod": "D+E",
+    "bransch": "företag inom energi och miljö",
+    "månad": "2026M08",
+    "antal": 2074
   },
   {
     "region": "Norrbottens län",
@@ -228390,6 +231274,13 @@
   },
   {
     "region": "Norrbottens län",
+    "branschkod": "F",
+    "bransch": "byggindustri",
+    "månad": "2026M08",
+    "antal": 13538
+  },
+  {
+    "region": "Norrbottens län",
     "branschkod": "G",
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2020M01",
@@ -228940,6 +231831,13 @@
     "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
     "månad": "2026M07",
     "antal": 12465
+  },
+  {
+    "region": "Norrbottens län",
+    "branschkod": "G",
+    "bransch": "handel; serviceverkstäder för motorfordon och motorcyklar",
+    "månad": "2026M08",
+    "antal": 12538
   },
   {
     "region": "Norrbottens län",
@@ -229496,6 +232394,13 @@
   },
   {
     "region": "Norrbottens län",
+    "branschkod": "H",
+    "bransch": "transport- och magasineringsföretag",
+    "månad": "2026M08",
+    "antal": 5505
+  },
+  {
+    "region": "Norrbottens län",
     "branschkod": "I",
     "bransch": "hotell och restauranger",
     "månad": "2020M01",
@@ -230046,6 +232951,13 @@
     "bransch": "hotell och restauranger",
     "månad": "2026M07",
     "antal": 5509
+  },
+  {
+    "region": "Norrbottens län",
+    "branschkod": "I",
+    "bransch": "hotell och restauranger",
+    "månad": "2026M08",
+    "antal": 5614
   },
   {
     "region": "Norrbottens län",
@@ -230602,6 +233514,13 @@
   },
   {
     "region": "Norrbottens län",
+    "branschkod": "J",
+    "bransch": "informations- och kommunikationsföretag",
+    "månad": "2026M08",
+    "antal": 2314
+  },
+  {
+    "region": "Norrbottens län",
     "branschkod": "K",
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2020M01",
@@ -231152,6 +234071,13 @@
     "bransch": "kreditinstitut och försäkringsbolag m.m.",
     "månad": "2026M07",
     "antal": 1795
+  },
+  {
+    "region": "Norrbottens län",
+    "branschkod": "K",
+    "bransch": "kreditinstitut och försäkringsbolag m.m.",
+    "månad": "2026M08",
+    "antal": 1812
   },
   {
     "region": "Norrbottens län",
@@ -231708,6 +234634,13 @@
   },
   {
     "region": "Norrbottens län",
+    "branschkod": "L",
+    "bransch": "fastighetsbolag och fastighetsförvaltare",
+    "månad": "2026M08",
+    "antal": 2058
+  },
+  {
+    "region": "Norrbottens län",
     "branschkod": "M+N",
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2020M01",
@@ -232258,6 +235191,13 @@
     "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
     "månad": "2026M07",
     "antal": 14509
+  },
+  {
+    "region": "Norrbottens län",
+    "branschkod": "M+N",
+    "bransch": "företag inom juridik, ekonomi, vetenskap och teknik; företag inom uthyrning, fastighetsservice, resetjänster och andra stödtjänster",
+    "månad": "2026M08",
+    "antal": 14305
   },
   {
     "region": "Norrbottens län",
@@ -232814,6 +235754,13 @@
   },
   {
     "region": "Norrbottens län",
+    "branschkod": "O",
+    "bransch": "civila myndigheter och försvaret",
+    "månad": "2026M08",
+    "antal": 11792
+  },
+  {
+    "region": "Norrbottens län",
     "branschkod": "P",
     "bransch": "utbildningsväsendet",
     "månad": "2020M01",
@@ -233364,6 +236311,13 @@
     "bransch": "utbildningsväsendet",
     "månad": "2026M07",
     "antal": 11699
+  },
+  {
+    "region": "Norrbottens län",
+    "branschkod": "P",
+    "bransch": "utbildningsväsendet",
+    "månad": "2026M08",
+    "antal": 11423
   },
   {
     "region": "Norrbottens län",
@@ -233920,6 +236874,13 @@
   },
   {
     "region": "Norrbottens län",
+    "branschkod": "Q",
+    "bransch": "enheter för vård och omsorg, socialtjänst",
+    "månad": "2026M08",
+    "antal": 23401
+  },
+  {
+    "region": "Norrbottens län",
     "branschkod": "R+S+T+U",
     "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
     "månad": "2020M01",
@@ -234473,6 +237434,13 @@
   },
   {
     "region": "Norrbottens län",
+    "branschkod": "R+S+T+U",
+    "bransch": "enheter för kultur, nöje och fritid; andra serviceföretag m.m.",
+    "månad": "2026M08",
+    "antal": 4978
+  },
+  {
+    "region": "Norrbottens län",
     "branschkod": "US",
     "bransch": "uppgift saknas",
     "månad": "2020M01",
@@ -235023,5 +237991,12 @@
     "bransch": "uppgift saknas",
     "månad": "2026M07",
     "antal": 133
+  },
+  {
+    "region": "Norrbottens län",
+    "branschkod": "US",
+    "bransch": "uppgift saknas",
+    "månad": "2026M08",
+    "antal": 108
   }
 ]
